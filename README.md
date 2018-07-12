@@ -27,14 +27,11 @@ I have also worked with Prof. Min Yang at Chinese Academy of Sciences (CAS)  and
 - [Global Center for Big Mobile intelligence (SIAT)](http://bmi.siat.ac.cn/), Shenzhen, Research Assistant
 
   Advisor: [Prof. Min Yang](http://minyang.me/)
+  
+  Co-work with [Prof. Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/), [The Hong Kong Polytechnic University (PolyU)](http://www.polyu.edu.hk/), Hong Kong
 
   2018.4 -  
 
-- [The Hong Kong Polytechnic University (PolyU)](http://www.polyu.edu.hk/), Hong Kong, Research Assistant
-
-  Advisor: [Prof. Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/)
-
-  2018.7 - 
 
 ### Research Interests
 
