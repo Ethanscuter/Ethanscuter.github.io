@@ -101,6 +101,8 @@ I have also worked with Prof. Min Yang at Chinese Academy of Sciences (CAS)  and
 ### Honors and Awards
  - First Prize of Academic Scholarships of South China University of Technology
  
+ - Hongping And Changqing Fellowship
+ 
  - Tencent Scholarship of the Science and Technology (1%)
  
  - Anju Bao Scholarship of the Science and Technology (1%)
