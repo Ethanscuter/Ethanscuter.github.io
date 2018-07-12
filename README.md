@@ -28,7 +28,7 @@ I have also worked with Prof. Min Yang at Chinese Academy of Sciences (CAS)  and
 
   Advisor: [Prof. Min Yang](http://minyang.me/)
   
-  Co-work with [Prof. Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/), [The Hong Kong Polytechnic University (PolyU)](http://www.polyu.edu.hk/), Hong Kong
+  Co-Advisor: [Prof. Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/), [PolyU](http://www.polyu.edu.hk/), Hong Kong
 
   2018.4 -  
 
