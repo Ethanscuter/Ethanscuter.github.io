@@ -99,19 +99,19 @@ I have also worked with Prof. Min Yang at Chinese Academy of Sciences (CAS)  and
   In  Journal of Computational Information Systems, 2014. 
 
 ### Honors and Awards
- - First Prize of Academic Scholarships of South China University of Technology
+ - First Prize of Academic Scholarships of South China University of Technology 2016, 2017, 2018
  
- - Hongping And Changqing Fellowship
+ - Hongping And Changqing Fellowship 2016
  
- - Tencent Scholarship of the Science and Technology (1%)
+ - Tencent Scholarship of the Science and Technology (1%) 2016
  
- - Anju Bao Scholarship of the Science and Technology (1%)
+ - Anju Bao Scholarship of the Science and Technology (1%) 2015
  
- - Merit Student of the Campus, Second-grade Excellent Study Scholarship
+ - Merit Student of the Campus, Second-grade Excellent Study Scholarship 2014, 2015
  
- - Honorable Mention of Mathematical Contest In Modeling Certificate of Achievement
+ - Honorable Mention of Mathematical Contest In Modeling Certificate of Achievement 2015
  
- - Gold Prize in National COMAP's Computer Software Design Contest.
+ - Gold Prize in National COMAP's Computer Software Design Contest. 2015
  
 ### Services
  Reviewer of NDBC, CCIR
