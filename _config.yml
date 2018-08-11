@@ -37,15 +37,15 @@ papers:
     venue: workshop
     abstract: >
       Given a fixed fund, purchasing fewer hosts of higher capability or inversely more of lower capability is a must-be-made trade-off in practices for building a Hadoop big data platform. An exploratory study is presented for a Housing Big Data Platform project (HBDP), where typical big data computing is with SQL queries of aggregate, join, and space-time condition selections executed upon massive data from more than 10 million housing units. In HBDP, an empirical formula was introduced to predict the performance of host clusters potential for the intended typical big data computing, and it was shaped via a regression approach. With this empirical formula, it is easy to suggest an optimal cluster configuration. The investigation was based on a typical Hadoop computing ecosystem HDFS+Hive+Spark. A proper metric was raised to measure the performance of Hadoop clusters in HBDP, which was tested and compared with its predicted counterpart, on executing three kinds of typical SQL query tasks. Tests were conducted with respect to factors of CPU benchmark, memory size, virtual host division, and the number of element physical host in cluster. The research has been applied to practical cluster procurement for housing big data computing.
- - layout: paper
-   year: 2016
-   paper-type: inproceedings
-   img: ICIOT2016
-   title: "TREST: A Hadoop Based Distributed Mobile Trajectory Retrieval System"
-   authors: Jianming Lv, <span class="color-blue">Xintong Wang</span>, Fengtao Huang, Junjie Yang
-   booktitle: "roceedings of the 1st IEEE International Conference on Data Science in Cyberspace (<strong>DSC</strong>)"
-   booktitle-url: papers/07866148.pdf
-   doc-url: papers/07866148.pdf
-   venue: workshop
-   abstract: >
-     Nowadays, mobile phones have prevailed in a great variety of applications, through which massive personal trajectories can be collected and analyzed to support many interesting location-based services. However, it is still challenging to efficiently store and retrieve this kind of spatio-temporal data, which has typical big-data feature with large size, streaming style and multiple data source. To address this issue, we develop a mobile trajectory retrieval system named TREST, which is based on the distributed Hadoop and HBase systems. TREST makes use of the horizontal expansion mechanism of Hadoop to store overwhelming spatio-temporal trajectories, and supports frequent incremental insertion of data stream. Meanwhile, TREST maps the spatio-temporal features of trajectories into the simple key-value schema of HBase to support fast retrieval. We also develop a prototype of TREST to manipulate the real mobile trajectory data set, which contains totally 104 million records collected by mobile service providers. Experiments on this data set show that TREST can efficiently support both Single-track and All-track retrieval within milliseconds on average.
+  - layout: paper
+    year: 2016
+    paper-type: inproceedings
+    img: ICIOT2016
+    title: "TREST: A Hadoop Based Distributed Mobile Trajectory Retrieval System"
+    authors: Jianming Lv, <span class="color-blue">Xintong Wang</span>, Fengtao Huang, Junjie Yang
+    booktitle: "roceedings of the 1st IEEE International Conference on Data Science in Cyberspace (<strong>DSC</strong>)"
+    booktitle-url: papers/07866148.pdf
+    doc-url: papers/07866148.pdf
+    venue: workshop
+    abstract: >
+      Nowadays, mobile phones have prevailed in a great variety of applications, through which massive personal trajectories can be collected and analyzed to support many interesting location-based services. However, it is still challenging to efficiently store and retrieve this kind of spatio-temporal data, which has typical big-data feature with large size, streaming style and multiple data source. To address this issue, we develop a mobile trajectory retrieval system named TREST, which is based on the distributed Hadoop and HBase systems. TREST makes use of the horizontal expansion mechanism of Hadoop to store overwhelming spatio-temporal trajectories, and supports frequent incremental insertion of data stream. Meanwhile, TREST maps the spatio-temporal features of trajectories into the simple key-value schema of HBase to support fast retrieval. We also develop a prototype of TREST to manipulate the real mobile trajectory data set, which contains totally 104 million records collected by mobile service providers. Experiments on this data set show that TREST can efficiently support both Single-track and All-track retrieval within milliseconds on average.
