@@ -2,48 +2,26 @@ exclude: ['README.md']
 timezone: US/Eastern
 papers:
   - layout: paper
-    year: 2017
+    year: 2018
     paper-type: inproceedings
     img: IJWSR2017
-    title: An energy-aware and under-SLA-constraints VM consolidation strategy based on the optimal matching method
-    authors: Weiling Li, <span class="color-blue">Yongbo Wang</span>, Yuandou Wang, Yunni Xia, Kunyin Guo, Quanwang Wu, Qingsheng Zhu
-    booktitle: International Journal of Web Services Research Volume 14, Issue 4 (<strong>IJWSR</strong>)
-    booktitle-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
-    doc-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
+    title: Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks.
+    authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv
+    booktitle: "Proceedings of the 11th International Conference on Knowledge Science, Engineering and Management (<strong>KSEM</strong>)"
+    booktitle-url: papers/1806.04533.pdf
+    doc-url: papers/1806.04533.pdf
     venue: workshop
     abstract: >
-        Growing demand of computational power brings increasing scale and complexity of cloud datacenters.
-        However, such increase also generates growing energy consumption and related cost incurred for cooling
-        and maintenance. With concerns of cost and energy saving by both industry and academy, the reduction of
-        energy consumption of cloud datacenters becomes a hotspot issue. Recently, virtual-machine-consolidationbased
-        strategies are proposed as promising methods for reduction of cloud energy consumption. Virtual
-        machine (VM) consolidation effectively increases the resource utilization rate. However, it remains a
-        great challenge how to reduce energy consumption while maintaining the quality of service (QoS) at a
-        satisfactory level. In this work, a comprehensive framework is presented for the above-mentioned problem,
-        which aims at maximizing the number of physical machines (PMs) to be turned off within a consolidation
-        period following the constraints of QoS, in terms of Service-Level-Agreement (SLA) violation rate. In
-        comparison with most existing related works which consider invariant utilization rate of PMs in computing
-        energy reduction of candidate migration plans, propose framework considers time-varying utilization rate
-        and employs the number of PMs to be turned off within a consolidation period (NPTCP for simple) as
-        the optimization objective. The proposed framework consists of a resource selection algorithm taking the
-        predicted migration overhead (derived by the Pareto distribution) as inputs and another algorithm generating
-        optimal matching plans based on preference scores of candidate VMs. For the model validation purpose,
-        a case study is conducted on the CloudSim simulation platform and it shows that the proposed method
-        achieves better energy reduction and less SLA violation.
+        Person re-identification (Re-ID) aims to match the image frames which contain the same person in the surveillance videos. Most of the Re-ID algorithms conduct supervised training in some small labeled datasets, so directly deploying these trained models to the real-world large camera networks may lead to a poor performance due to underfitting. The significant difference between the source training dataset and the target testing dataset makes it challenging to incrementally optimize the model. To address this challenge, we propose a novel solution by transforming the unlabeled images in the target domain to fit the original classifier by using our proposed similarity preserved generative adversarial networks model, SimPGAN. Specifically, SimPGAN adopts the generative adversarial networks with the cycle consistency constraint to transform the unlabeled images in the target domain to the style of the source domain. Meanwhile, SimPGAN uses the similarity consistency loss, which is measured by a siamese deep convolutional neural network, to preserve the similarity of the transformed images of the same person. Comprehensive experiments based on multiple real surveillance datasets are conducted, and the results show that our algorithm is better than the state-of-the-art cross-dataset unsupervised person Re-ID algorithms.
   - layout: paper
     year: 2016
     paper-type: inproceedings
     img: ICIOT2016
-    title: "Stochastic performance analysis of unreliable IaaS clouds"
-    authors: <span class="color-blue">YongBo Wang</span>, HaiChuan Zhang, KunYin Guo, Yunni Xia*, WeiLing Li
-    booktitle: "Proceedings of S2 International Conference on Internet of Things (<strong>ICIOT</strong>)"
-    booktitle-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
-    doc-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
+    title: "T-CONV: A Convolutional Neural Network For Multi-scale Taxi Trajectory Prediction"
+    authors: Jianming Lv, Qing Li, <span class="color-blue">Xintong Wang</span>, Qinghui Sun
+    booktitle: "Proceedings of the 5th IEEE International Conference on Big Data and Smart Computing (<strong>BigComp</strong>)"
+    booktitle-url: papers/1611.07635.pdf
+    doc-url: papers/1611.07635.pdf
     venue: workshop
     abstract: >
-      Performance evaluation of cloud data-centers has drawn considerable attention from academy and industry. 
-      In this study, we present an analytical approach to the performance analysis of Infrastructure-as-a-Service 
-      cloud data-centers with unreliable task executions and resubmissions of unsuccessful tasks. Several 
-      performance metrics are considered and analyzed under variable load intensities, failure frequencies, 
-      multiplexing abilities, and service intensities. We also conduct a case study based on a real-world cloud 
-      data-center and employ a confidence interval check to validate the correctness of the proposed model. 
+      Precise destination prediction of taxi trajectories can benefit many intelligent location based services such as accurate ad for passengers. Traditional prediction approaches, which treat trajectories as one-dimensional sequences and process them in single scale, fail to capture the diverse two-dimensional patterns of trajectories in different spatial scales. In this paper, we propose T-CONV which models trajectories as two-dimensional images, and adopts multi-layer convolutional neural networks to combine multi-scale trajectory patterns to achieve precise prediction. Furthermore, we conduct gradient analysis to visualize the multi-scale spatial patterns captured by T-CONV and extract the areas with distinct influence on the ultimate prediction. Finally, we integrate multiple local enhancement convolutional fields to explore these important areas deeply for better prediction. Comprehensive experiments based on real trajectory data show that T-CONV can achieve higher accuracy than the state-of-the-art methods.
