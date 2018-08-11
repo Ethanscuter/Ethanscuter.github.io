@@ -49,3 +49,32 @@ papers:
     venue: workshop
     abstract: >
       Nowadays, mobile phones have prevailed in a great variety of applications, through which massive personal trajectories can be collected and analyzed to support many interesting location-based services. However, it is still challenging to efficiently store and retrieve this kind of spatio-temporal data, which has typical big-data feature with large size, streaming style and multiple data source. To address this issue, we develop a mobile trajectory retrieval system named TREST, which is based on the distributed Hadoop and HBase systems. TREST makes use of the horizontal expansion mechanism of Hadoop to store overwhelming spatio-temporal trajectories, and supports frequent incremental insertion of data stream. Meanwhile, TREST maps the spatio-temporal features of trajectories into the simple key-value schema of HBase to support fast retrieval. We also develop a prototype of TREST to manipulate the real mobile trajectory data set, which contains totally 104 million records collected by mobile service providers. Experiments on this data set show that TREST can efficiently support both Single-track and All-track retrieval within milliseconds on average.
+  - layout: paper
+    year: 2014
+    paper-type: inproceedings
+    img: IJWSR2017
+    title: GPS Trajectory Mining: a Survey
+    authors: Haibiao Lin, Jianming Lv, Can Yang, Miaoyi Deng, Kaitao Wang, <span class="color-blue">Xintong Wang</span>
+    booktitle: Journal of Computational Information Systems Volume 14, Issue 4 (<strong>JCIS</strong>)
+    booktitle-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
+    doc-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
+    venue: workshop
+    abstract: >
+        Growing demand of computational power brings increasing scale and complexity of cloud datacenters.
+        However, such increase also generates growing energy consumption and related cost incurred for cooling
+        and maintenance. With concerns of cost and energy saving by both industry and academy, the reduction of
+        energy consumption of cloud datacenters becomes a hotspot issue. Recently, virtual-machine-consolidationbased
+        strategies are proposed as promising methods for reduction of cloud energy consumption. Virtual
+        machine (VM) consolidation effectively increases the resource utilization rate. However, it remains a
+        great challenge how to reduce energy consumption while maintaining the quality of service (QoS) at a
+        satisfactory level. In this work, a comprehensive framework is presented for the above-mentioned problem,
+        which aims at maximizing the number of physical machines (PMs) to be turned off within a consolidation
+        period following the constraints of QoS, in terms of Service-Level-Agreement (SLA) violation rate. In
+        comparison with most existing related works which consider invariant utilization rate of PMs in computing
+        energy reduction of candidate migration plans, propose framework considers time-varying utilization rate
+        and employs the number of PMs to be turned off within a consolidation period (NPTCP for simple) as
+        the optimization objective. The proposed framework consists of a resource selection algorithm taking the
+        predicted migration overhead (derived by the Pareto distribution) as inputs and another algorithm generating
+        optimal matching plans based on preference scores of candidate VMs. For the model validation purpose,
+        a case study is conducted on the CloudSim simulation platform and it shows that the proposed method
+        achieves better energy reduction and less SLA violation.
