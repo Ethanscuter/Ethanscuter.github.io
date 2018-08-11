@@ -4,13 +4,12 @@
     {% if paper.venue == include.venue %}
       <li>
       {% if paper.authors %}
-        {{ paper.authors | replace: 'With', 'Adam Lopez,' }}. 
+        {{ paper.authors | replace: 'With', 'Yongbo Wang,' }}. 
       {% else %}
-        Adam Lopez.
+        Yongbo Wang.
       {% endif %}
       {{ paper.year }}. 
-      {% capture title_end %}{{ paper.title | slice: -1 }}{% endcapture %}
-      {{ paper.title }}{% unless title_end == '?' %}.{% endunless %}
+      {{ paper.title }}. 
       In
       {% case paper.paper-type %}
         {% when "inproceedings" %}
