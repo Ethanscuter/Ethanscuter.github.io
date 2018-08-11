@@ -14,7 +14,7 @@ papers:
     abstract: >
         Person re-identification (Re-ID) aims to match the image frames which contain the same person in the surveillance videos. Most of the Re-ID algorithms conduct supervised training in some small labeled datasets, so directly deploying these trained models to the real-world large camera networks may lead to a poor performance due to underfitting. The significant difference between the source training dataset and the target testing dataset makes it challenging to incrementally optimize the model. To address this challenge, we propose a novel solution by transforming the unlabeled images in the target domain to fit the original classifier by using our proposed similarity preserved generative adversarial networks model, SimPGAN. Specifically, SimPGAN adopts the generative adversarial networks with the cycle consistency constraint to transform the unlabeled images in the target domain to the style of the source domain. Meanwhile, SimPGAN uses the similarity consistency loss, which is measured by a siamese deep convolutional neural network, to preserve the similarity of the transformed images of the same person. Comprehensive experiments based on multiple real surveillance datasets are conducted, and the results show that our algorithm is better than the state-of-the-art cross-dataset unsupervised person Re-ID algorithms.
   - layout: paper
-    year: 2016
+    year: 2018
     paper-type: inproceedings
     img: ICIOT2016
     title: "T-CONV: A Convolutional Neural Network For Multi-scale Taxi Trajectory Prediction"
@@ -25,3 +25,27 @@ papers:
     venue: workshop
     abstract: >
       Precise destination prediction of taxi trajectories can benefit many intelligent location based services such as accurate ad for passengers. Traditional prediction approaches, which treat trajectories as one-dimensional sequences and process them in single scale, fail to capture the diverse two-dimensional patterns of trajectories in different spatial scales. In this paper, we propose T-CONV which models trajectories as two-dimensional images, and adopts multi-layer convolutional neural networks to combine multi-scale trajectory patterns to achieve precise prediction. Furthermore, we conduct gradient analysis to visualize the multi-scale spatial patterns captured by T-CONV and extract the areas with distinct influence on the ultimate prediction. Finally, we integrate multiple local enhancement convolutional fields to explore these important areas deeply for better prediction. Comprehensive experiments based on real trajectory data show that T-CONV can achieve higher accuracy than the state-of-the-art methods.
+ - layout: paper
+   year: 2017
+   paper-type: inproceedings
+   img: IJWSR2017
+   title: "Regression Approach for Optimal Purchase of Hosts Cluster in Fixed Fund for Hadoop Big-data Platform"
+   authors: Haitao Yang, Jianming Lv, Fei Xu, <span class="color-blue">Xintong Wang</span>, Yilin Huang, Lanting Xia
+   booktitle: "Proceedings of the 19th International Conference on Smart City, Transportation and Buildings (<strong>ICSCTB</strong>)"
+   booktitle-url: papers/Regression-Approach-for-Optimal-Purchase-of-Hosts-Cluster-in-Fixed-Fund-for-Hadoop-Big-Data-Platform.pdf
+   doc-url: papers/Regression-Approach-for-Optimal-Purchase-of-Hosts-Cluster-in-Fixed-Fund-for-Hadoop-Big-Data-Platform.pdf
+   venue: workshop
+   abstract: >
+     Given a fixed fund, purchasing fewer hosts of higher capability or inversely more of lower capability is a must-be-made trade-off in practices for building a Hadoop big data platform. An exploratory study is presented for a Housing Big Data Platform project (HBDP), where typical big data computing is with SQL queries of aggregate, join, and space-time condition selections executed upon massive data from more than 10 million housing units. In HBDP, an empirical formula was introduced to predict the performance of host clusters potential for the intended typical big data computing, and it was shaped via a regression approach. With this empirical formula, it is easy to suggest an optimal cluster configuration. The investigation was based on a typical Hadoop computing ecosystem HDFS+Hive+Spark. A proper metric was raised to measure the performance of Hadoop clusters in HBDP, which was tested and compared with its predicted counterpart, on executing three kinds of typical SQL query tasks. Tests were conducted with respect to factors of CPU benchmark, memory size, virtual host division, and the number of element physical host in cluster. The research has been applied to practical cluster procurement for housing big data computing.
+- layout: paper
+  year: 2016
+  paper-type: inproceedings
+  img: ICIOT2016
+  title: "TREST: A Hadoop Based Distributed Mobile Trajectory Retrieval System"
+  authors: Jianming Lv, <span class="color-blue">Xintong Wang</span>, Fengtao Huang, Junjie Yang
+  booktitle: "roceedings of the 1st IEEE International Conference on Data Science in Cyberspace (<strong>DSC</strong>)"
+  booktitle-url: papers/07866148.pdf
+  doc-url: papers/07866148.pdf
+  venue: workshop
+  abstract: >
+    Nowadays, mobile phones have prevailed in a great variety of applications, through which massive personal trajectories can be collected and analyzed to support many interesting location-based services. However, it is still challenging to efficiently store and retrieve this kind of spatio-temporal data, which has typical big-data feature with large size, streaming style and multiple data source. To address this issue, we develop a mobile trajectory retrieval system named TREST, which is based on the distributed Hadoop and HBase systems. TREST makes use of the horizontal expansion mechanism of Hadoop to store overwhelming spatio-temporal trajectories, and supports frequent incremental insertion of data stream. Meanwhile, TREST maps the spatio-temporal features of trajectories into the simple key-value schema of HBase to support fast retrieval. We also develop a prototype of TREST to manipulate the real mobile trajectory data set, which contains totally 104 million records collected by mobile service providers. Experiments on this data set show that TREST can efficiently support both Single-track and All-track retrieval within milliseconds on average.
