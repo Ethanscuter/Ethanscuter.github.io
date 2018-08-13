@@ -53,9 +53,9 @@ papers:
     year: 2014
     paper-type: inproceedings
     img: IJWSR2017
-    title: GPS Trajectory Mining: a Survey
+    title: "GPS Trajectory Mining: a Survey"
     authors: Haibiao Lin, Jianming Lv, Can Yang, Miaoyi Deng, Kaitao Wang, <span class="color-blue">Xintong Wang</span>
-    booktitle: Journal of Computational Information Systems Volume 14, Issue 4 (<strong>JCIS</strong>)
+    booktitle: "Journal of Computational Information Systems Volume 14, Issue 4 (<strong>JCIS</strong>)"
     booktitle-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
     doc-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
     venue: workshop
