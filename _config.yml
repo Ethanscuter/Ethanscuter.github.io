@@ -57,7 +57,7 @@ papers:
     authors: Haibiao Lin, Jianming Lv, Can Yang, Miaoyi Deng, Kaitao Wang, <span class="color-blue">Xintong Wang</span>
     booktitle: "Journal of Computational Information Systems Volume 16, Issue 10 (<strong>JCIS</strong>)"
     booktitle-url: papers/GPS_Trajectory_Mining_a_Survey.pdf
-    doc-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
+    doc-url: papers/GPS_Trajectory_Mining_a_Survey.pdf
     venue: workshop
     abstract: >
         Growing demand of computational power brings increasing scale and complexity of cloud datacenters.
