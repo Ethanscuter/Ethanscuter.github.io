@@ -6,8 +6,7 @@ papers:
     paper-type: inproceedings
     img: ICIOT2016
     title: "Generative Adversarial Network for Abstractive Text Summarization with Multi-task Learning Approaches"
-    authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv, Min Yang
-    booktitle: "(<strong>Under Review</strong>)"
+    authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv, Min Yang <strong>Under Review</strong>
     venue: workshop
     abstract: >
       TBD
