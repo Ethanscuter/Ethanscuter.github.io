@@ -4,6 +4,16 @@ papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
+    img: ICIOT2016
+    title: "Generative Adversarial Network for Abstractive Text Summarization with Multi-task Learning Approaches"
+    authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv, Min Yang
+    booktitle: "(<strong>Under Review</strong>)"
+    venue: workshop
+    abstract: >
+      TBD
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
     img: IJWSR2017
     title: Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks.
     authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv
@@ -43,7 +53,7 @@ papers:
     img: ICIOT2016
     title: "TREST: A Hadoop Based Distributed Mobile Trajectory Retrieval System"
     authors: Jianming Lv, <span class="color-blue">Xintong Wang</span>, Fengtao Huang, Junjie Yang
-    booktitle: "roceedings of the 1st IEEE International Conference on Data Science in Cyberspace (<strong>DSC</strong>)"
+    booktitle: "Proceedings of the 1st IEEE International Conference on Data Science in Cyberspace (<strong>DSC</strong>)"
     booktitle-url: papers/07866148.pdf
     doc-url: papers/07866148.pdf
     venue: workshop
