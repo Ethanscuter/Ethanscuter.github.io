@@ -4,15 +4,6 @@ papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
-    img: ICIOT2016
-    title: "Generative Adversarial Network for Abstractive Text Summarization with Multi-task Learning Approaches"
-    authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv, Min Yang <strong>Under Review</strong>
-    venue: workshop
-    abstract: >
-      TBD
-  - layout: paper
-    year: 2018
-    paper-type: inproceedings
     img: IJWSR2017
     title: Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks.
     authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv
