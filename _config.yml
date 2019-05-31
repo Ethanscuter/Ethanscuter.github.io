@@ -13,7 +13,6 @@ papers:
     venue: workshop
     abstract: >
         Neural abstractive summarization generates a short natural language summary that compress the information in the longer text. Models built on the sequential to sequential framework achieve good performance, but suffer from the key content lacking issues. Existing key information integrated models usually combine an additional extractive component to extract keywords from the input document and then utilized this key information explicitly in the decoding phrase separately. They ignore the potential opportunity of capturing the supervised signal to direct the encoder representations. Moreover, representations obtained by the encoder only stands for the contextual semantic of the input document, which fails to reflect the key content information contributed to the summary most. To address these issues, we propose an improved abstractive summarization model with key content information which employs key content classification task built on the encoder to identify the semantic of representation is salience or not jointly optimized with the encoder in a supervised manner. Besides, we integrate the key information implicitly to obtain summarization specific representations as the input of the decoder. Experimental results on real-world dataset show that integrating key content information in the representation implicitly achieves significant improvements on CNN/Daily Mail as compared to all baselines.
-papers:
   - layout: paper
     year: 2019
     paper-type: inproceedings
@@ -26,7 +25,6 @@ papers:
     venue: workshop
     abstract: >
         Recent sequence-to-sequence neural network models provide a viable new solution to abstractive text summarization, which aims to rewrite a long text into a short and concise form while preserving the most crucial information. However, these models face significant challenges when generating both semantically and syntactically correct summaries. In this work, we explore the potential approaches to incorporate an external (pre-trained) language model to augment the linguistic quality of text generation. This allows the internal (decoder) language model to focus more on jointly learning summary content selection and generation. Fused with the external language model, our abstractive summarization model achieves the results comparable to state-of-the-art models in terms of ROUGE scores, and meanwhile shows significant improvements in both perplexity and human evaluations. 
-papers:
   - layout: paper
     year: 2018
     paper-type: inproceedings
