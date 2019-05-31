@@ -7,7 +7,7 @@ papers:
     img: IJWSR2017
     title: Improving Abstractive Summarization with Key Content Information.
     authors: <span class="color-blue">Xintong Wang</span>, Wenjie Li
-    booktitle: "ACM Transactions on ... <strong>Under Review</strong>"
+    booktitle: "EMNLP <strong>Under Review</strong>"
     booktitle-url: papers/1806.04533.pdf
     doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
     venue: workshop
