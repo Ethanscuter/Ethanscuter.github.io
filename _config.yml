@@ -19,7 +19,7 @@ papers:
     img: IJWSR2017
     title: Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint.
     authors: Min Yang, <span class="color-blue">Xintong Wang</span>, Yao Lu, Jianming Lv, Qiang Qu
-    booktitle: "Information Science. <strong>Under Review</strong>"
+    booktitle: "Information Science."
     booktitle-url: papers/1806.04533.pdf
     doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
     venue: workshop
