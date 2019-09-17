@@ -7,7 +7,7 @@ papers:
     img: IJWSR2017
     title: Fusing External Language Model in Abstractive Summarization.
     authors: <span class="color-blue">Xintong Wang</span>,Wenjie Li
-    booktitle: "EMNLP, (CCF B), <strong>Under Review</strong>"
+    booktitle: "EMNLP (CCF B), Under Review"
     booktitle-url: papers/1806.04533.pdf
     doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
     venue: workshop
@@ -19,7 +19,7 @@ papers:
     img: IJWSR2017
     title: Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint.
     authors: Min Yang, <span class="color-blue">Xintong Wang</span>, Yao Lu, Jianming Lv, Qiang Qu
-    booktitle: "Information Science, (Q1 Journal)."
+    booktitle: "Information Science (Q1 Journal)"
     booktitle-url: papers/1806.04533.pdf
     doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
     venue: workshop
@@ -31,7 +31,7 @@ papers:
     img: IJWSR2017
     title: Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks.
     authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv
-    booktitle: "Proceedings of the 11th International Conference on Knowledge Science, Engineering and Management (<strong>KSEM</strong>), (CCF C)"
+    booktitle: "Proceedings of the 11th International Conference on Knowledge Science, Engineering and Management (<strong>KSEM</strong> CCF C),"
     booktitle-url: papers/1806.04533.pdf
     doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
     venue: workshop
