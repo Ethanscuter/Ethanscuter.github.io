@@ -8,8 +8,8 @@ papers:
     title: Fusing External Language Model in Abstractive Summarization.
     authors: <span class="color-blue">Xintong Wang</span>,Wenjie Li
     booktitle: "IJCAI (CCF-A Conference), Under Review"
-    booktitle-url: papers/1806.04533.pdf
-    doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
+    booktitle-url: papers/Fusion.pdf
+    doc-url: papers/Fusion.pdf
     venue: workshop
     abstract: >
         Recent sequence-to-sequence neural network models provide a viable new solution to abstractive text summarization, which aims to rewrite a long text into a short and concise form while preserving the most crucial information. However, these models face significant challenges when generating both semantically and syntactically correct summaries. In this work, we explore the potential approaches to incorporate an external (pre-trained) language model to augment the linguistic quality of text generation. This allows the internal (decoder) language model to focus more on jointly learning summary content selection and generation. Fused with the external language model, our abstractive summarization model achieves the results comparable to state-of-the-art models in terms of ROUGE scores, and meanwhile shows significant improvements in both perplexity and human evaluations. 
