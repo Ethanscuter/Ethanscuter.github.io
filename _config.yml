@@ -17,7 +17,7 @@ papers:
     year: 2019
     paper-type: inproceedings
     img: IJWSR2017
-    title: Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint.
+    title: Plausibility-promoting Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint.
     authors: Min Yang, <span class="color-blue">Xintong Wang</span>, Yao Lu, Jianming Lv, Qiang Qu
     booktitle: "Information Science (Q1 Journal), Under Review"
     booktitle-url: papers/AGANABS.pdf
