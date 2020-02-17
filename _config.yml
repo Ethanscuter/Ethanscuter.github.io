@@ -18,7 +18,7 @@ papers:
     paper-type: inproceedings
     img: IJWSR2017
     title: Plausibility-promoting Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint.
-    authors: Min Yang, <span class="color-blue">Xintong Wang</span>, Yao Lu, Jianming Lv, Qiang Qu
+    authors: <span class="color-blue">Xintong Wang</span>, Min Yang, Yao Lu, Jianming Lv, Ying Shen, Chengming Li
     booktitle: "Information Science (Q1 Journal)"
     booktitle-url: papers/AGANABS.pdf
     doc-url: papers/AGANABS.pdf
