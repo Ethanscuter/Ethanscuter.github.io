@@ -6,7 +6,7 @@ papers:
     paper-type: inproceedings
     img: IJWSR2017
     title: Plausibility-promoting Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint.
-    authors: <span class="color-blue">Xintong Wang</span>, Min Yang, Yao Lu, Jianming Lv, Ying Shen, Chengming Li
+    authors: <span class="color-blue">Xintong Wang*</span>, Min Yang*, Yao Lu, Jianming Lv, Ying Shen, Chengming Li
     booktitle: "Information Science (Q1 Journal)"
     booktitle-url: papers/AGANABS.pdf
     doc-url: papers/AGANABS.pdf
@@ -18,7 +18,7 @@ papers:
     paper-type: inproceedings
     img: IJWSR2017
     title: Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks.
-    authors: <span class="color-blue">Xintong Wang</span>, Jianming Lv
+    authors: <span class="color-blue">Xintong Wang*</span>, Jianming Lv*
     booktitle: "Proceedings of the 11th International Conference on Knowledge Science, Engineering and Management <strong>KSEM</strong>, (CCF-C Conference)"
     booktitle-url: papers/1806.04533.pdf
     doc-url: papers/Lv-Wang2018_Chapter_Cross-DatasetPersonRe-identifi.pdf
